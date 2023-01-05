@@ -1,6 +1,6 @@
 #!/bin/bash
 
-destination1=$HOME"/code/frog/hunterrepo/x86_64"
+destination1=$HOME"/hunterrepo/x86_64"
 
 destiny=$destination1
 
@@ -31,3 +31,4 @@ rm -r calamares-*
 tput setaf 8
 echo "[+] build done"
 tput sgr0
+
