@@ -1,11 +1,10 @@
-# Maintainer: Erik Dubois <erik.dubois@gmail.com>
 pkgname=hunteros-calamares-config
 _destname1="/etc"
-pkgver=22.06
-pkgrel=15
+pkgver=1.10
+pkgrel=1
 pkgdesc="calamares for HunterOS"
 arch=('any')
-url="https://github.com/arch-linux-calamares-installer"
+url="https://github.com/dev-frog/"
 license=('GPL3')
 makedepends=('git')
 depends=()
